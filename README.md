@@ -28,12 +28,5 @@ This Professional CV Template is a clean and modern resume layout designed to sh
 
 5. **Print or Export as PDF**: Once satisfied with your changes, you can print your CV directly from the browser or use a browser extension to save it as a PDF.
 
-## License
-
-This CV Template is open-source and available under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as needed.
-
-## Credits
-
-Designed and developed by [Your Name]. If you find this template helpful, consider giving credit or providing a link to this repository.
 
 Happy job hunting!
